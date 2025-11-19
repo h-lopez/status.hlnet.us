@@ -4,19 +4,19 @@
     "url": "https://hlnet.us",
     "icon": "https://icons.duckduckgo.com/ip3/hlnet.us.ico",
     "slug": "hlnet-us",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 72,
+    "timeDay": 72,
+    "timeWeek": 72,
+    "timeMonth": 72,
+    "timeYear": 72,
     "dailyMinutesDown": {
-      "2025-11-19": 0
+      "2025-11-19": 7
     }
   },
   {
