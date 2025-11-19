@@ -32,8 +32,8 @@ status-website:
   # cname: status.hlnet.us
   baseUrl: /status.hlnet.us
   logoUrl: 
-  name: status.hlnet.us
-  introTitle: **status.hlnet.us**
+  name: "status.hlnet.us"
+  introTitle: "**status.hlnet.us**"
   introMessage: 
   navbar:
     - title: Status
