@@ -10,31 +10,111 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 74,
-    "timeDay": 74,
-    "timeWeek": 74,
-    "timeMonth": 74,
-    "timeYear": 74,
+    "time": 85,
+    "timeDay": 85,
+    "timeWeek": 85,
+    "timeMonth": 85,
+    "timeYear": 85,
     "dailyMinutesDown": {
-      "2025-11-19": 10
+      "2025-11-19": 37
     }
   },
   {
-    "name": "IPv6 test",
-    "url": "hlnet.us",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "i-pv6-test",
-    "status": "down",
+    "name": "Unifi",
+    "url": "https://unifi.hlnet.us",
+    "icon": "https://icons.duckduckgo.com/ip3/unifi.hlnet.us.ico",
+    "slug": "unifi",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
+    "time": 148,
+    "timeDay": 148,
+    "timeWeek": 148,
+    "timeMonth": 148,
+    "timeYear": 148,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Overseerr",
+    "url": "https://overseerr.hlnet.us",
+    "icon": "https://icons.duckduckgo.com/ip3/overseerr.hlnet.us.ico",
+    "slug": "overseerr",
+    "status": "down",
+    "uptime": "0.62%",
+    "uptimeDay": "0.62%",
+    "uptimeWeek": "0.62%",
+    "uptimeMonth": "0.62%",
+    "uptimeYear": "0.62%",
+    "time": 110,
+    "timeDay": 110,
+    "timeWeek": 110,
+    "timeMonth": 110,
+    "timeYear": 110,
+    "dailyMinutesDown": {
+      "2025-11-19": 1
+    }
+  },
+  {
+    "name": "Plex",
+    "url": "https://plex.hlnet.us",
+    "icon": "https://icons.duckduckgo.com/ip3/plex.hlnet.us.ico",
+    "slug": "plex",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 129,
+    "timeDay": 129,
+    "timeWeek": 129,
+    "timeMonth": 129,
+    "timeYear": 129,
+    "dailyMinutesDown": {
+      "2025-11-19": 1
+    }
+  },
+  {
+    "name": "vpn.hlnet.us (IPv4)",
+    "url": "vpn4.hlnet.us",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "vpn-hlnet-us-i-pv4",
+    "status": "down",
+    "uptime": "93.81%",
+    "uptimeDay": "93.81%",
+    "uptimeWeek": "93.81%",
+    "uptimeMonth": "93.81%",
+    "uptimeYear": "93.81%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-19": 0
+    }
+  },
+  {
+    "name": "vpn.hlnet.us (IPv6)",
+    "url": "vpn6.hlnet.us",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "vpn-hlnet-us-i-pv6",
+    "status": "down",
+    "uptime": "3.61%",
+    "uptimeDay": "3.61%",
+    "uptimeWeek": "3.61%",
+    "uptimeMonth": "3.61%",
+    "uptimeYear": "3.61%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-11-19": 0
+    }
   }
 ]
