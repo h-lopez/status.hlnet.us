@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/overseerr.hlnet.us.ico",
     "slug": "overseerr",
     "status": "down",
-    "uptime": "0.62%",
-    "uptimeDay": "0.62%",
-    "uptimeWeek": "0.62%",
-    "uptimeMonth": "0.62%",
-    "uptimeYear": "0.62%",
+    "uptime": "0.41%",
+    "uptimeDay": "0.41%",
+    "uptimeWeek": "0.41%",
+    "uptimeMonth": "0.41%",
+    "uptimeYear": "0.41%",
     "time": 110,
     "timeDay": 110,
     "timeWeek": 110,
     "timeMonth": 110,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2025-11-19": 1
+      "2025-11-19": 2
     }
   },
   {
@@ -74,7 +74,7 @@
     "timeMonth": 129,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2025-11-19": 1
+      "2025-11-19": 2
     }
   },
   {
@@ -83,11 +83,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-hlnet-us-i-pv4",
     "status": "down",
-    "uptime": "93.81%",
-    "uptimeDay": "93.81%",
-    "uptimeWeek": "93.81%",
-    "uptimeMonth": "93.81%",
-    "uptimeYear": "93.81%",
+    "uptime": "84.38%",
+    "uptimeDay": "84.38%",
+    "uptimeWeek": "84.38%",
+    "uptimeMonth": "84.38%",
+    "uptimeYear": "84.38%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -103,11 +103,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-hlnet-us-i-pv6",
     "status": "down",
-    "uptime": "3.61%",
-    "uptimeDay": "3.61%",
-    "uptimeWeek": "3.61%",
-    "uptimeMonth": "3.61%",
-    "uptimeYear": "3.61%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
