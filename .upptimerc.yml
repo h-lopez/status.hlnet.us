@@ -5,10 +5,25 @@ repo: status.hlnet.us # The name of this repository
 sites:
   - name: hlnet.us
     url: https://hlnet.us
-  - name: IPv6 test
-    url: hlnet.us
-    port: 80
+    method: GET
+  - name: Unifi
+    url: https://unifi.hlnet.us
+    method: GET
+  - name: Overseerr
+    url: https://overseerr.hlnet.us
+    method: GET
+  - name: Plex
+    url: https://plex.hlnet.us
+    method: GET
+
+  - name: vpn.hlnet.us (IPv4)
+    url: vpn4.hlnet.us
     check: "tcp-ping"
+    port: 0
+  - name: vpn.hlnet.us (IPv6)
+    url: vpn6.hlnet.us
+    check: "tcp-ping"
+    port: 53
     ipv6: true
 
 status-website:
@@ -17,14 +32,14 @@ status-website:
   # cname: status.hlnet.us
   baseUrl: /status.hlnet.us
   logoUrl: 
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: status.hlnet.us
+  introTitle: **status.hlnet.us**
+  introMessage: 
   navbar:
     - title: Status
       href: /
-    # - title: GitHub
-    #   href: https://github.com/$OWNER/$REPO
+    - title: Home
+      href: https://hlnet.us
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
