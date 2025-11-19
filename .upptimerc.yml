@@ -5,12 +5,20 @@ repo: status.hlnet.us # The name of this repository
 sites:
   - name: hlnet.us
     url: https://hlnet.us
+    check: "tcp-ping"
+    port: 443
   - name: Unifi
     url: https://unifi.hlnet.us
+    check: "tcp-ping"
+    port: 443
   - name: Overseerr
     url: https://overseerr.hlnet.us
+    check: "tcp-ping"
+    port: 443
   - name: Plex
     url: https://plex.hlnet.us
+    check: "tcp-ping"
+    port: 443
 
 #  - name: vpn.hlnet.us (IPv4)
 #    url: vpn4.hlnet.us
