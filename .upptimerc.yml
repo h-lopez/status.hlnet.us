@@ -5,41 +5,37 @@ repo: status.hlnet.us # The name of this repository
 sites:
   - name: hlnet.us
     url: https://hlnet.us
-    method: GET
   - name: Unifi
     url: https://unifi.hlnet.us
-    method: GET
   - name: Overseerr
     url: https://overseerr.hlnet.us
-    method: GET
   - name: Plex
     url: https://plex.hlnet.us
-    method: GET
 
-  - name: vpn.hlnet.us (IPv4)
-    url: vpn4.hlnet.us
-    check: "tcp-ping"
-    port: 0
-  - name: vpn.hlnet.us (IPv6)
-    url: vpn6.hlnet.us
-    check: "tcp-ping"
-    port: 53
-    ipv6: true
+#  - name: vpn.hlnet.us (IPv4)
+#    url: vpn4.hlnet.us
+#    check: "tcp-ping"
+#    port: 0
+#  - name: vpn.hlnet.us (IPv6)
+#    url: vpn6.hlnet.us
+#    check: "tcp-ping"
+#    port: 53
+#    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status.hlnet.us
-  baseUrl: /status.hlnet.us
+  cname: status.hlnet.us
+  # baseUrl: /status.hlnet.us
   logoUrl: 
   name: "status.hlnet.us"
   introTitle: "**status.hlnet.us**"
   introMessage: 
   navbar:
-    - title: Status
-      href: /
     - title: Home
       href: https://hlnet.us
+    - title: Home
+      href: https://status.hlnet.us
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
