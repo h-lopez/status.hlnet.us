@@ -11,12 +11,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 84,
-    "timeDay": 84,
+    "timeDay": 0,
     "timeWeek": 84,
     "timeMonth": 84,
     "timeYear": 84,
     "dailyMinutesDown": {
-      "2025-11-20": 13,
+      "2025-11-21": 12,
+      "2025-11-20": 1440,
       "2025-11-19": 1203
     }
   },
@@ -26,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/unifi.hlnet.us.ico",
     "slug": "unifi",
     "status": "down",
-    "uptime": "92.46%",
-    "uptimeDay": "92.46%",
-    "uptimeWeek": "92.46%",
-    "uptimeMonth": "92.46%",
-    "uptimeYear": "92.46%",
+    "uptime": "41.64%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "41.64%",
+    "uptimeMonth": "41.64%",
+    "uptimeYear": "41.64%",
     "time": 221,
-    "timeDay": 221,
+    "timeDay": 0,
     "timeWeek": 221,
     "timeMonth": 221,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2025-11-20": 13,
+      "2025-11-21": 12,
+      "2025-11-20": 1440,
       "2025-11-19": 76
     }
   },
@@ -53,12 +55,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 100,
-    "timeDay": 100,
+    "timeDay": 0,
     "timeWeek": 100,
     "timeMonth": 100,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2025-11-20": 13,
+      "2025-11-21": 12,
+      "2025-11-20": 1440,
       "2025-11-19": 1167
     }
   },
@@ -74,12 +77,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 159,
-    "timeDay": 159,
+    "timeDay": 0,
     "timeWeek": 159,
     "timeMonth": 159,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2025-11-20": 13,
+      "2025-11-21": 12,
+      "2025-11-20": 1440,
       "2025-11-19": 1167
     }
   }
