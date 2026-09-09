@@ -3,15 +3,15 @@ repo: status.hlnet.us
 
 sites:
   - name: hlnet.us
-    showAverageResponseTime: false
+    # showAverageResponseTime: false
     url: https://hlnet.us
   - name: plex.hlnet.us
-    showAverageResponseTime: false
+    # showAverageResponseTime: false
     url: https://plex.hlnet.us
     expectedStatusCodes:
       - 401
   - name: requests.hlnet.us
-    showAverageResponseTime: false
+    # showAverageResponseTime: false
     url: https://requests.hlnet.us
 
 status-website:
