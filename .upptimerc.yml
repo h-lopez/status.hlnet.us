@@ -1,28 +1,32 @@
-# Change these first
-owner: h-lopez # Your GitHub organization or username, where this repository lives
-repo: status.hlnet.us # The name of this repository
+owner: h-lopez
+repo: status.hlnet.us
 
 sites:
   - name: hlnet.us
+    showAverageResponseTime: false
     url: https://hlnet.us
-  - name: Plex
+  - name: plex.hlnet.us
+    showAverageResponseTime: false
     url: https://plex.hlnet.us
     expectedStatusCodes:
       - 401
-  - name: Requests
+  - name: requests.hlnet.us
+    showAverageResponseTime: false
     url: https://requests.hlnet.us
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.hlnet.us
-  # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: hlnet.us - System Health
-  #introTitle: hlnet.us System Health
+  # introTitle: hlnet.us System Health
   # introMessage: service status
+  theme: light
   navbar:
     - title: HLnet
       href: https://hlnet.us
     - title: Status
       href: /
+
+i18n:
+  # disable footer
+  footer: ''
