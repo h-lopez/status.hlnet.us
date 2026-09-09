@@ -18,8 +18,8 @@ status-website:
   cname: status.hlnet.us
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: HLnet.us Status
-  introTitle: hlnet.us System Health
+  name: hlnet.us - System Health
+  #introTitle: hlnet.us System Health
   # introMessage: service status
   navbar:
     - title: HLnet
