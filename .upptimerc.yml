@@ -7,6 +7,8 @@ sites:
     url: https://hlnet.us
   - name: Plex
     url: https://plex.hlnet.us
+    expectedStatusCodes:
+      - 401
   - name: Requests
     url: https://requests.hlnet.us
 
