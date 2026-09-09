@@ -23,17 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.hlnet.us.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "61.89%",
+    "uptimeDay": "61.89%",
+    "uptimeWeek": "61.89%",
+    "uptimeMonth": "61.89%",
+    "uptimeYear": "61.89%",
     "time": 67,
     "timeDay": 67,
     "timeWeek": 67,
     "timeMonth": 67,
     "timeYear": 67,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-09": 0
+    }
   },
   {
     "name": "Requests",
