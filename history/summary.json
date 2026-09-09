@@ -4,19 +4,19 @@
     "url": "https://hlnet.us",
     "icon": "https://icons.duckduckgo.com/ip3/hlnet.us.ico",
     "slug": "hlnet-us",
-    "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.53%",
-    "time": 3498,
-    "timeDay": 3498,
-    "timeWeek": 3498,
-    "timeMonth": 3498,
-    "timeYear": 3498,
+    "status": "up",
+    "uptime": "83.87%",
+    "uptimeDay": "83.87%",
+    "uptimeWeek": "83.87%",
+    "uptimeMonth": "83.87%",
+    "uptimeYear": "83.87%",
+    "time": 3264,
+    "timeDay": 3264,
+    "timeWeek": 3264,
+    "timeMonth": 3264,
+    "timeYear": 3264,
     "dailyMinutesDown": {
-      "2026-09-09": 4
+      "2026-09-09": 161
     }
   },
   {
