@@ -1,7 +1,7 @@
 url: https://requests.hlnet.us
-status: down
-code: 502
-responseTime: 10156
-lastUpdated: 2026-09-11T20:10:03.798Z
+status: up
+code: 200
+responseTime: 609
+lastUpdated: 2026-09-11T22:29:46.526Z
 startTime: 2026-09-09T13:36:50.643Z
 generator: Upptime <https://github.com/upptime/upptime>
