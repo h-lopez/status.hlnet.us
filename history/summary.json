@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hlnet.us.ico",
     "slug": "hlnet-us",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.77%",
+    "uptimeYear": "99.78%",
     "time": 537,
     "timeDay": 194,
     "timeWeek": 152,
@@ -24,11 +24,11 @@
     "url": "https://plex.hlnet.us",
     "icon": "https://icons.duckduckgo.com/ip3/plex.hlnet.us.ico",
     "slug": "plex-hlnet-us",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.89%",
     "time": 204,
     "timeDay": 239,
@@ -37,7 +37,8 @@
     "timeYear": 204,
     "dailyMinutesDown": {
       "2026-09-11": 6,
-      "2026-09-16": 71
+      "2026-09-16": 71,
+      "2026-10-28": 2
     }
   },
   {
@@ -45,20 +46,21 @@
     "url": "https://requests.hlnet.us",
     "icon": "https://icons.duckduckgo.com/ip3/requests.hlnet.us.ico",
     "slug": "requests-hlnet-us",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1515,
-    "timeDay": 782,
-    "timeWeek": 594,
-    "timeMonth": 610,
-    "timeYear": 1515,
+    "time": 2193,
+    "timeDay": 20111,
+    "timeWeek": 5450,
+    "timeMonth": 1863,
+    "timeYear": 2193,
     "dailyMinutesDown": {
       "2026-09-11": 5,
-      "2026-09-16": 70
+      "2026-09-16": 70,
+      "2026-10-28": 0
     }
   }
 ]
